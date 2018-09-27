@@ -85,7 +85,7 @@ During the execution of the test cases I found 2 problems:
 
 # Suggestions about the support form
 
-- When the form is submitted with valid values there is no confirmation or indication that the report was submitted, there is only a redirection to another page. I think some kind of confirmation should be send to the user to be certain that the support team received the report
+- When the form is submitted with valid values there is no confirmation or indication that the report was submitted, there is only a redirection to another page. I think some kind of confirmation should be sent to the user to be certain that the support team received the report
 - According to the description of the problem, contact info must be filled to send a valid report to prevent reports from bots, however this is not effective since bots can automatically fill the form with the required fields, a captcha method will be more effective to prevent this
 - I think is a good idea to add a button to include attachments and to add the fields "Product" and "Version"
 
